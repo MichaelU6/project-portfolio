@@ -1,0 +1,13 @@
+# Local-only material; this repository is a public presentation.
+.env
+.env.*
+*.log
+*.zip
+*.tar.gz
+*.sql
+*.sqlite*
+tmp/
+temp/
+local/
+.DS_Store
+Thumbs.db
